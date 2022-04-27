@@ -1,5 +1,5 @@
 import React from 'react';
-import logoz from 'src/assets/app/logo.svg';
+import logozz from 'src/assets/app/logo.svg';
 import classes from './App.module.scss';
 
 export const App: React.FC = () => {
