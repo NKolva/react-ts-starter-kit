@@ -1,6 +1,8 @@
 # NODE VERSION - v18.12.1
 
 # WIP - but you can use it as template
+## See commit comment to know what is done, later i will update it in README file
+### https://github.com/NKolva/react-ts-starter-kit/commit/e1948befda376aafb58cda11f356c1031d72acfe
 
 # Getting Started with Create React App
 
