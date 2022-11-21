@@ -1,0 +1,15 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-sass-guidelines"],
+  "plugins": ["stylelint-scss", "stylelint-order"],
+  "rules": {
+    "string-quotes": "double",
+    "at-rule-no-unknown": null,
+    "selector-no-qualifying-type": null,
+    "max-nesting-depth": 12,
+    "no-descending-specificity": null,
+    "selector-max-compound-selectors": 12,
+    "selector-max-id": 1,
+    "order/properties-alphabetical-order": null,
+    "font-family-no-missing-generic-family-keyword": null
+  }
+}

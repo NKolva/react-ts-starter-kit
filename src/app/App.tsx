@@ -8,8 +8,9 @@ import { ExampleFeature } from 'src/features/exampleFeature/ExampleFeature';
 import './app.scss';
 
 export const App: React.FC = () => {
+  s;
   return (
-    <div className="App">
+    <div className="app">
       <Fragment>
         <Routes>
           <Route path={ROUTE.DEFAULT} element={<ExampleFeature />} />
