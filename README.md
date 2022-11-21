@@ -1,5 +1,7 @@
 # NODE VERSION - v18.12.1
 
+# WIP - but you can use it as template
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
