@@ -28,7 +28,9 @@
     "no-invalid-this": "off",
     "react/prop-types": "off",
     "require-jsdoc": "off",
-    "camelcase": "off"
+    "camelcase": "off",
+    "no-unused-vars": "error",
+    "no-undef": "error"
   },
   "env": {
     "mocha": true,
