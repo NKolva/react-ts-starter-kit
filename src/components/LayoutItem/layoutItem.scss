@@ -1,0 +1,15 @@
+@import 'src/sass/variables';
+
+.layout-item {
+  height: 17px;
+  margin-bottom: 15px;
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+  color: $gray-primary;
+  transition: all 0.3s ease-in-out;
+
+  > &--active {
+    color: $white-primary;
+  }
+}
