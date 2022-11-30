@@ -1,0 +1,87 @@
+// Sizes
+$large: 1440px;
+$medium: 1260px;
+$small: 740px;
+
+$container: 1264px;
+$containerTablet: 720px;
+$containerMobile: 288px;
+
+$indent: 24px;
+$indentBig: 32px;
+$indentSmall: 16px;
+$indentBigMobile: 36px;
+$indentSection: 128px;
+$indentSectionTablet: 76px;
+$indentSectionMobileBig: 64px;
+
+// Colors
+$color-black: #000000;
+
+$color-white: #ffffff;
+
+$color-gray-900: #f5f5f5;
+$color-gray-800: #eaeaea;
+$color-gray-700: #dddddd;
+$color-gray-600: #cacaca;
+$color-gray-500: #afafaf;
+$color-gray-400: #8a8a8a;
+$color-gray-300: #636363;
+$color-gray-200: #383838;
+$color-gray-100: #0f0f0f;
+$color-gray: $color-gray-500;
+
+$color-blue-900: #f2f9ff;
+$color-blue-800: #b9dbfe;
+$color-blue-700: #83bffc;
+$color-blue-600: #56a7f8;
+$color-blue-500: #3493f1;
+$color-blue-400: #1c80e4;
+$color-blue-300: #0c67c2;
+$color-blue-200: #023970;
+$color-blue-100: #001121;
+$color-blue: $color-blue-500;
+
+$color-yellow-900: #fffaf1;
+$color-yellow-800: #fde5bb;
+$color-yellow-700: #fad087;
+$color-yellow-600: #f7bd5a;
+$color-yellow-500: #f0ad38;
+$color-yellow-400: #e49b1f;
+$color-yellow-300: #c3800d;
+$color-yellow-200: #734a03;
+$color-yellow-100: #261800;
+$color-yellow: $color-yellow-500;
+
+$color-green-900: #e8fff5;
+$color-green-800: #c2f7e1;
+$color-green-700: #9eedcc;
+$color-green-600: #7ce2b7;
+$color-green-500: #5dd4a2;
+$color-green-400: #3fbe89;
+$color-green-300: #219363;
+$color-green-200: #295140;
+$color-green-100: #002616;
+$color-green: $color-green-500;
+
+$color-red-900: #ffe8e8;
+$color-red-800: #ffcece;
+$color-red-700: #ffb0b0;
+$color-red-600: #ff8f8f;
+$color-red-500: #f16d6d;
+$color-red-400: #c16767;
+$color-red-300: #895555;
+$color-red-200: #4c3636;
+$color-red-100: #261414;
+$color-red: $color-red-500;
+
+$color-blur: rgba(0, 17, 33, 0.3);
+
+// Durations
+$transitionDuration: 0.4s;
+
+//
+$white-primary: #fff;
+
+$gray-primary: #c4c4c4;
+$gray-primary-light: #f5f5f5;
